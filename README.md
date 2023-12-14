@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a coding enthusiast with some knowledge on  application web development
+I'm a coding enthusiast with some knowledge on  application and web development
 
 
 # 💻 Tech Stack:
